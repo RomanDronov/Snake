@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\roman\documents\visual studio 2015\projects\consoleapplication11\consoleapplication11\source.cpp(227): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication11.vcxproj -> C:\Users\roman\Documents\Visual Studio 2015\Projects\ConsoleApplication11\Debug\ConsoleApplication11.exe
+  ConsoleApplication11.vcxproj -> C:\Users\roman\Documents\Visual Studio 2015\Projects\ConsoleApplication11\Debug\ConsoleApplication11.pdb (Full PDB)
